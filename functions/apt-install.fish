@@ -1,4 +1,4 @@
 function apt-install
-        apt-get install $argv
+        sudo apt-get install $argv
 end
 
