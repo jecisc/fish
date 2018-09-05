@@ -1,4 +1,4 @@
 function whome
-	cd /mnt/c/Users/Cyril
+	cd /mnt/c/Users/jecis
 end
 
