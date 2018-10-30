@@ -13,6 +13,9 @@ alias ...........="cd ../../../../../../../../../.."
 alias ............="cd ../../../../../../../../../../.."
 alias .............="cd ../../../../../../../../../../../.."
 
+alias pcd="pushd"
+alias pd="popd"
+
 #See issue https://github.com/fish-shell/fish-shell/issues/1569
 
 function x86
