@@ -1,4 +1,4 @@
-set -x PATH $PATH /usr/local/bin/
+set -x PATH $PATH /usr/local/bin/ ~/.config/fish/bash/
 
 alias ..="cd .."
 alias ...="cd ../.."
