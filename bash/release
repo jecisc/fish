@@ -81,6 +81,9 @@ print_tag(){
 show(){
   # Args
   local release_tag="$1"
+
+  git fetch --all &> /dev/null
+
   # Loop's variable
   local floating_tag=""
   if ! tag_exists $release_tag
@@ -102,6 +105,9 @@ show(){
 generate(){
   # Args
   local release_tag="$1"
+
+  git fetch --all &> /dev/null
+
   local remote="$2"
   # Loop's variable
   local floating_tag=""
