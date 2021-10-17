@@ -1,4 +1,4 @@
 function apt-update
-        sudo apt-get update $argv
+        sudo apt update $argv
 end
 
