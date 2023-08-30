@@ -16,6 +16,16 @@ alias .............="cd ../../../../../../../../../../../.."
 alias pcd="pushd"
 alias pd="popd"
 
+alias ck="git checkout"
+alias pull="git pull"
+alias push="git push"
+alias gstatus="git status"
+alias merge="git merge"
+alias add="git add"
+alias commit="git commit"
+alias clone="git clone"
+
+
 # Dumb alias for fun
 alias please="sudo"
 alias vachercher="git fetch --all"
