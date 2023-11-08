@@ -1,6 +1,6 @@
 set -x PATH $PATH /usr/local/bin/ ~/.config/fish/bash/
 
-set -gx CDPATH $CDPATH . ~ /Users/cyril/Library/Preferences/pharo/GitRepositories/pharo-project/ /Users/cyril/Library/Preferences/pharo/GitRepositories/
+set -gx CDPATH $CDPATH . ~ ~/Library/Preferences/pharo/GitRepositories/pharo-project/ ~/Library/Preferences/pharo/GitRepositories/ ~/Documents/Pharo/images
 
 alias ..="cd .."
 alias ...="cd ../.."
