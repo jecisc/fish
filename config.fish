@@ -32,6 +32,8 @@ alias clone="git clone"
 alias please="sudo"
 alias vachercher="git fetch --all"
 
+alias pl="/Applications/PharoLauncher.app/Contents/MacOS/pharo-launcher"
+
 # See issue https://github.com/fish-shell/fish-shell/issues/1569
 
 function x86
