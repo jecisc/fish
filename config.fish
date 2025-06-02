@@ -15,6 +15,9 @@ alias ...........="cd ../../../../../../../../../.."
 alias ............="cd ../../../../../../../../../../.."
 alias .............="cd ../../../../../../../../../../../.."
 
+alias ps="cd pharo-spec"
+alias mo="cd moosetechnology"
+
 alias pcd="pushd"
 alias pd="popd"
 
@@ -32,7 +35,7 @@ alias clone="git clone"
 alias please="sudo"
 alias vachercher="git fetch --all"
 
-alias pl="/Applications/PharoLauncher.app/Contents/MacOS/pharo-launcher"
+alias pl="/Applications/PharoLauncher.app/Contents/Resources/pharo-launcher"
 
 alias verveineJ="/Users/cyril/Library/Preferences/pharo/GitRepositories/moosetechnology/VerveineJ/verveinej.sh"
 
